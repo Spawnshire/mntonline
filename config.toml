@@ -1,0 +1,76 @@
+DefaultContentLanguage = "en"
+author = "He Yeshuang"
+baseURL = "mntonline.888"
+copyright = ""
+disqusShortname = "spawnshire"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-FAKE" ## or "G-xxxxxxxx" in Google Analytics v4, in hugo v0.82+
+hasCJKLanguage = true
+languageCode = "cn"
+theme = "hugo-theme-tokiwa"
+title = "緑の魂"
+
+[markup]
+[markup.highlight]
+style = "monokailight"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+bannerFont = "fonts/exampleFont" 
+description = """
+家
+""" 
+env = "production" # for Google Analytics and DISQUS.
+favicon = "img/favicon-32x32.png" 
+fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
+math = true # for introducing $KaTEX$
+useChineseFonts = true 
+postDateFormat = "2006-1-2"
+
+[menu]
+# Shown in the side menu.
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "post"
+name = "posts"
+url = "/post/"
+weight = 2
+
+[[menu.main]]
+name = "tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+identifier = "acts"
+name = "associated acts"
+url = "/acts/"
+weight = 4
+
+[[menu.main]]
+identifier = "contact"
+name = "contact us"
+url = "/contact/"
+weight = 5
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+[social]
+instagram = "https://www.instagram.com/cryandrally//"
+mail = "mailto:spawnshire@protonmail.com"
+twitter = "https://twitter.com/spawnshire"
+# any icon in layouts/partials/svg can be used by the name without the "-line.svg"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
