@@ -16,4 +16,4 @@ edit: managed to fix the favicon :) super stoked that i got it to work tonight. 
 
 
 幸せなリッキー  
-happy ricky :)
+happyy ricky :)
