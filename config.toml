@@ -72,8 +72,9 @@ weight = 1
 category = "categories"
 series = "series"
 tag = "tags"
+
 [social]
-instagram = "https://www.instagram.com/cryandrally//"
+instagram = "https://www.instagram.com/cryandrally"
 mail = "mailto:spawnshire@protonmail.com"
 twitter = "https://twitter.com/spawnshire"
 # any icon in layouts/partials/svg can be used by the name without the "-line.svg"
