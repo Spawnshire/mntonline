@@ -4,7 +4,7 @@ title = "探検"
 date = "2021-11-29"
 description = "exploration"
 tags = [
-    "updates",
+    "updates","tech"
 ]
 +++
 ***
