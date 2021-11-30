@@ -8,5 +8,7 @@ tags = [
 ]
 +++
 
-welcome to the midori no tamashi.
-this is something that i've wanted to do for quite some time now. i've frequently imagined myself as having a blog but never really had the drive to do so. nor did i have a purpose that i saw fit. however, as my grand ideas of MNT slowly culminate i've begun to realize that i need a hub. so that is the purpose of this site. to act as a personal blog for myself and my fellow creators. i will slowly be bringing in associated acts and will soon begin publish updates on the tbd / wip works. i am truly excited to finally have a means of bringing people together more cohesively. only time will tell what we've in store.
+CC: spawnshire
+so many days and years gone by with me having not done this. i am immensely proud of myself for having finally taken the time to figure out how to do this. i am using a technol known as hugo which sort of acts as a front end interface for much more complex web dev tools. i'm excited to be learning this tool. what i am most curious in though is using this platform to connect all of my fellow artists together and have them represented alongside me. i believe i can find a way to fit an immense amount of content on this site. i would like to use the blogging format to document my peer's and i's progress. there will also be a selected works section to act as our portfolios. i'm really excited for this. with that being said, i think it's most important to address the only current technical issue with the blog. currently the top left kanji doesn't act as a home button and rather redirects you to the page you are already on. whats strange is this is not the case on the local server, so it has to do something with the githup repo. ill probably be taking some time to address that here soon. maybe through maintaining this blog i can put myself in a position where i can more clearly express my thoughts. alrights, till next time.
+
+love ricky
