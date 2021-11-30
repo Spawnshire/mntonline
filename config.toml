@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "He Yeshuang"
-baseURL = "mntonline.888"
+baseURL = "https://github.com/heyeshuang/hugo-theme-tokiwa.git"
 copyright = ""
 disqusShortname = "spawnshire"
 enableInlineShortcodes = true
