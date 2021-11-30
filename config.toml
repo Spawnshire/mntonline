@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "He Yeshuang"
-baseURL = ""
+baseURL = "/"
 copyright = ""
 disqusShortname = ""
 enableInlineShortcodes = true
