@@ -1,0 +1,14 @@
++++
+author = "spawnshire"
+title = "探検"
+date = "2021-11-29"
+description = "exploration"
+tags = [
+    "updates",
+]
++++
+***
+CC: spawnshire ***
+this is a load of fun. i'm having a really fun time learning the go programming language. i feel like i'm back in school, troubleshooting problems i never thought i'd have. hey, that's adulthood. one of the biggest reasons i'm really excited for all of this is the business opportunities. i'm learning to use some really awesome tools right now. tools that one day i will use to assist someone in the same way that these tools have (and are going to) assist me. i'm excited to only get more fluent and be able to set myself and my peers up for success. create websites for them that are literally free, express myself online, document my thoughts, become more clairvoyant, and grow exponentially. I believe that a lot of really great things are going to come from this blog. As of the moment, I am going to take my time in developing the site to a point i feel comfortable advertising it. So in the meantime, this blog will just act more as a journal :) an e-journal if you will. i've got to start focusing on my markdown syntax so that i can take further advantage of these posts. display images, embed links and videos, express my thoughts with page breaks, font changes, and colored letters. make some asci art. this is going to be a really good time. finally, a central tunnel. you can come to me whenever you need and for whatever you need. it'll be nice to see you when i do. you know who you are. and you know where you are. bennett is about to sit down next to me. it is him to my left, cole to my right, and erin up above me that i feel fueled in this world. it is now that i have the willingness to pursue these ventures. the willingness to move forward. maybe sometime soon i'll be recieving depression treatment. maybe one day here soon i'll be celebrating in a blog post and a song release that i might be there. might then might i look back upon this day with these familiar guitars playing. this tusk deep in my side. bleeding and leaking out unto the white carpet. too dark to tye-dye it out and unable to remove it. any store with hydrogen peroxide miles away and not even a mcguyver motorcade to shred those deserts. not even a wink of gas. you alone together with these three amongst the brian jonestown massacre. infinitely familiar guitar heard sometime never once before. so long gone but so close to home. almost like the anxiety felt in awaiting tomorrows event. the anxiety felt in tomorrows past. i could ramble and ramble but somethings are better left unsaid. it's time for some ocarina of time with bennett and self reflection. relflection.
+
+happy ricky :)
