@@ -62,6 +62,12 @@ name = "contact us"
 url = "/contact/"
 weight = 5
 
+[[menu.main]]
+identifier = "home"
+name = "home
+url = "/ "
+weight = 6
+
 [taxonomies]
 category = "categories"
 series = "series"
