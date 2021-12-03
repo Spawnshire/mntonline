@@ -14,7 +14,7 @@ pre-save Finer Things on spotify! (if you might be interested)
 everyone who pre-saves will also recieve a haiku from me!  
 pre-save now lest you be behind the times!  
   
-[pre-save Finer Things >o<](https://distrokid.com/hyperfollow/sasoriza/finer-things)  
+[pre-save Finer Things >o<](https://distrokid.com/hyperfollow/sasoriza/finer-things-2)  
 ***
 楽しんでいただければ幸いです  
 hope you enjoy! -ricky
