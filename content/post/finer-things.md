@@ -14,7 +14,7 @@ everyone who pre-saves will also recieve a haiku from me!
 pre-save now lest you be behind the times!  
   
 [pre-save Finer Things >o<](https://distrokid.com/hyperfollow/sasoriza/finer-things)  
-[Finer Things Cover](/static/finer-things-cover.jpg)
+![Finer Things Cover](/static/finer-things-cover.jpg)
 ***
 楽しんでいただければ幸いです  
 hope you enjoy! -ricky
