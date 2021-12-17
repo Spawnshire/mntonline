@@ -46,21 +46,27 @@ url = "/post/"
 weight = 3
 
 [[menu.main]]
+identifier = "Things to talk about"
+name = "Things to talk about"
+url = '/discussion/'
+weight = 4
+
+[[menu.main]]
 name = "tags"
 url = "/tags/"
-weight = 4
+weight = 5
 
 [[menu.main]]
 identifier = "acts"
 name = "associated acts"
 url = "/acts/"
-weight = 5
+weight = 6
 
 [[menu.main]]
 identifier = "contact"
 name = "contact us"
 url = "/contact/"
-weight = 6
+weight = 7
 
 [[menu.main]]
 identifier = "home"
@@ -77,6 +83,7 @@ tag = "tags"
 instagram = "https://www.instagram.com/midorinotamashi"
 mail = "mailto:contact@mntonline.ooo"
 twitter = "https://twitter.com/mntonline"
+discord = 
 # any icon in layouts/partials/svg can be used by the name without the "-line.svg"
 
 [outputs]
