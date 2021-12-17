@@ -83,7 +83,7 @@ tag = "tags"
 instagram = "https://www.instagram.com/midorinotamashi"
 mail = "mailto:contact@mntonline.ooo"
 twitter = "https://twitter.com/mntonline"
-discord = 
+discord = ""
 # any icon in layouts/partials/svg can be used by the name without the "-line.svg"
 
 [outputs]
