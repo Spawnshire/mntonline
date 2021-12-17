@@ -48,7 +48,7 @@ weight = 3
 [[menu.main]]
 identifier = "Things to talk about"
 name = "Things to talk about"
-url = '/discussion/'
+url = "/discussion/"
 weight = 4
 
 [[menu.main]]
