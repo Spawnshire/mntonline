@@ -15,7 +15,7 @@ Artist links in the footer!
   
 This weeks song of the week is Sewerslvt’s “Mr. Kill Myself”
   
-https://www.youtube.com/watch?v=RgFaK6ZQifE&ab_channel=Sewerslvt
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgFaK6ZQifE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 drum & bass, electronica, experimental, ambient, atmospheric, breakcore, depressive breakcore, jungle, rave, vaporwave
   
