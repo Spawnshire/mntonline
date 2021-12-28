@@ -29,6 +29,6 @@ It is these things that tell me I’ve run out of time to waste.
   
 ![SotW1](/draining-love-story.jpg)
 
-[sewerslvt.bandcamp.com](https://sewerslvt.bandcamp.com/)
-[Sewerslvt Spotify](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU?si=4FhFK4LzRs6aUyp682jPcg)
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2350190403/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sewerslvt.bandcamp.com/album/we-had-good-times-together-dont-forget-that">we had good times together, don&#39;t forget that by Sewerslvt</a></iframe>
+  
 <iframe src="https://open.spotify.com/embed/artist/30F64wQIHvLiFTGaNZ73nU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
