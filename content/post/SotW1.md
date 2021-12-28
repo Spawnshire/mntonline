@@ -27,4 +27,6 @@ Recently, Sewerslvt has announced her departure from the music industry and it h
   
 It is these things that tell me I’ve run out of time to waste.
   
+![SotW1](/draining-love-story.jpg)
+
 https://sewerslvt.bandcamp.com/
