@@ -29,4 +29,6 @@ It is these things that tell me I’ve run out of time to waste.
   
 ![SotW1](/draining-love-story.jpg)
 
-https://sewerslvt.bandcamp.com/
+[sewerslvt.bandcamp.com](https://sewerslvt.bandcamp.com/)
+[Sewerslvt Spotify](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU?si=4FhFK4LzRs6aUyp682jPcg)
+<iframe src="https://open.spotify.com/embed/artist/30F64wQIHvLiFTGaNZ73nU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
