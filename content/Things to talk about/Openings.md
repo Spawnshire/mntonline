@@ -1,6 +1,6 @@
 +++
 author = "spawnshire"
-title = "開口部"
+title = "Someone's listening to me"
 date = "2021-12-26"
 description = "openings"
 tags = [
