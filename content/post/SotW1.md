@@ -25,7 +25,9 @@ I often listen to this song while diving, daydreaming and wandering into thought
   
 Recently, Sewerslvt has announced her departure from the music industry and it has been a strange feeling amongst fans. It is definitely bittersweet. However, she’s made enough music for me to last lifetimes and I’m confident that at some point, she upload again. Likely under a different moniker but I do have faith nonetheless. Sewer’s departure definitely feels right, though. I know that she needs the time for herself, to grow and to heal. What is so fitting to me: Is that in almost the same moments that I accepted aspects of my past life is when she departed. In almost the same moments that she allowed me to heal through her music, in a moment of deep recollection; I became aware of her departure. Taking my sorrows with her and telling me that it is now my time to grow. It is now my time to become that which I’ve looked up to for so long.
   
-It is these things that tell me I’ve run out of time to waste.
+It is these things that tell me I’ve run out of time to waste. 
+Thank you, Will. For introducing me. 
+Thank you, Jvno. For welcoming me.
   
 ![SotW1](/draining-love-story.jpg)
 
