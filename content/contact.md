@@ -7,5 +7,5 @@ author = "spawnshire"
 +++
 ***
 Arik Cruz  
-![Instagram](https://www.instagram.com/cryandrally/) ![Twitter](https://twitter.com/spawnshire)
+[Instagram](https://www.instagram.com/cryandrally/) [Twitter](https://twitter.com/spawnshire)
 
