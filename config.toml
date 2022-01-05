@@ -46,9 +46,9 @@ url = "/post/"
 weight = 3
 
 [[menu.main]]
-identifier = "Things to talk about"
-name = "Things to talk about"
-url = "/Things-to-talk-about/"
+identifier = "playlists"
+name = "playlists"
+url = "/playlists/"
 weight = 4
 
 [[menu.main]]
@@ -67,6 +67,12 @@ identifier = "contact"
 name = "contact us"
 url = "/contact/"
 weight = 7
+
+[[menu.main]]
+identifier = "Things to talk about"
+name = "Things to talk about"
+url = "/Things-to-talk-about/"
+weight = 8
 
 [[menu.main]]
 identifier = "home"
