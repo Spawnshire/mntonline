@@ -10,7 +10,7 @@ tags = [
 ***
 Song of the Week #1
   
-Uploaded weekly on Tuesday’s by Spawnshire  
+Uploaded weekly on Tuesday’s by Ricky
 Music selected as a means of discussing pieces that are important to me.  
 Artist links in the footer!  
 
