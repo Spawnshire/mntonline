@@ -16,7 +16,7 @@ Artist links in the footer!
 
 This weeks song is Tim Haywood's "Street Party”
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u9n-6ZDGUBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u9n-6ZDGUBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > *dark ambient, ninja kiwi, soundtrack, chillout, sci-fi, video game, video game music, Lincoln*
   
