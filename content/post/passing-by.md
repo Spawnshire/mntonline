@@ -4,7 +4,7 @@ title = "通過"
 date = "2022-01-05"
 description = "passing by"
 tags = [
-    "updates",
+    "personal",
     ]
     
 +++

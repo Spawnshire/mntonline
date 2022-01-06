@@ -4,7 +4,7 @@ title = "方向"
 date = "2021-12-26"
 description = "direction"
 tags = [
-    "updates",
+    "personal",
 ]
 +++
 ***
