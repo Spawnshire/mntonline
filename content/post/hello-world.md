@@ -4,7 +4,7 @@ title = "こんにちは世界"
 date = "2021-11-29"
 description = "hello world"
 tags = [
-    "updates",
+    "updates", "releases"
 ]
 +++
 ***

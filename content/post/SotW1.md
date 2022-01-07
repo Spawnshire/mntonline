@@ -11,10 +11,10 @@ tags = [
 Song of the Week #1
   
 Uploaded weekly on Tuesday’s by Ricky  
-Music selected as a means of discussing pieces that are important to me.  
+Music selected as a means of discussing piece's that are important to me.  
 Artist links in the footer!  
 
-This weeks song is Sewerslvt’s “Mr. Kill Myself”
+This week's song is Sewerslvt’s “Mr. Kill Myself”
   
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RgFaK6ZQifE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
