@@ -7,6 +7,9 @@ tags = [
     "updates", "releases"
 ]
 +++
+  
+![hello-world](/hello-world.jpg)
+  
 ***
 So many days and years gone by with me having not done this. I am immensely proud of myself for having finally taken the time to figure out how to do this. I am using a technology known as hugo which sort of acts as a front end interface for much more complex web dev tools. I'm excited to be learning this tool. What I am most curious in though is using this platform to connect all of my fellow artists together and have them represented alongside me. I believe I can find a way to fit an immense amount of content on this site. I would like to use the blogging format to document my peer's and I's progress. There will also be a selected works section to act as our portfolios. I'm really excited for this. With that being said, I think it's most important to address the only current technical issue with the blog. Currently the top left kanji doesn't act as a home button and rather redirects you to the page you are already on. whats strange is this is not the case on the local server, so it has to do something with the github repo. I'll probably be taking some time to address that here soon. Maybe through maintaining this blog I can put myself in a position where I can more clearly express my thoughts. Alrights, till next time.
 ***
