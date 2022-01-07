@@ -10,7 +10,7 @@ author = "Spawnshire"
   
 <iframe src="https://open.spotify.com/embed/playlist/0rxvt4dPNeIYBdZUchKPLT?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   
-![HHRII](/hhrII.jpg)
+![HHRII](/hhrII.JPG)
   
   <iframe src="https://open.spotify.com/embed/playlist/164vWPdlwhBdEBEDMaflLs?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   
