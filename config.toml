@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "He Yeshuang"
-baseURL = "https://mntonline.ooo"
+baseURL = "https://mntonline.ooo/"
 copyright = ""
 disqusShortname = "Spawnshire"
 enableInlineShortcodes = true
