@@ -1,8 +1,8 @@
 DefaultContentLanguage = "en"
 author = "He Yeshuang"
-baseURL = "/"
+baseURL = "https://mntonline.ooo/"
 copyright = ""
-disqusShortname = ""
+disqusShortname = "Spawnshire"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-FAKE" ## or "G-xxxxxxxx" in Google Analytics v4, in hugo v0.82+

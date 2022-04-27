@@ -17,3 +17,4 @@ So many days and years gone by with me having not done this. I am immensely prou
 
 リッキーが大好き  
 love ricky
+  
