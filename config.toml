@@ -52,27 +52,9 @@ url = "/playlists/"
 weight = 4
 
 [[menu.main]]
-identifier = "Things to talk about"
-name = "Things to talk about"
-url = "/Things-to-talk-about/"
-weight = 5
-
-[[menu.main]]
 name = "tags"
 url = "/tags/"
 weight = 6
-
-[[menu.main]]
-identifier = "acts"
-name = "associated acts"
-url = "/acts/"
-weight = 7
-
-[[menu.main]]
-identifier = "contact"
-name = "contact us"
-url = "/contact/"
-weight = 8
 
 [[menu.main]]
 identifier = "home"
